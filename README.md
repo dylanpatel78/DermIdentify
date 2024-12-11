@@ -38,6 +38,10 @@ The model was trained using the HAM10000 dataset, which is a collection of high-
 
 MAJOR CHANGE INCOMING: Code Documentation and Comments
 
+---
+
+This project is part of my ePortfolio. [Click here to explore more projects and learn about my work.](https://github.com/dylanpatel78/dylan-patel-ePortfolio)
+
 * Additional Skin Conditions: Expand the model to classify more types of skin lesions.
 * Mobile Compatibility: Make the web app more optimized for mobile users.
 * Model Fine-Tuning: Further improve accuracy with hyperparameter tuning and model architecture adjustments.
